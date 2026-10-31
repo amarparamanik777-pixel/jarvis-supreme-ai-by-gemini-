@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS Supreme</string>
+    <string name="accessibility_service_description">Allows Jarvis to read active apps, suggest next steps, check grammar while typing, click camera photos, and toggle Quick Settings (Wi-Fi, Hotspot, Mobile Data, Bluetooth) on your Redmi Note 15 5G.</string>
+</resources>
